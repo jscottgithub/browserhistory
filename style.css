@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald&display=swap');
+
+/* Set background color and margins for the body */
+body {
+    background-color: ivory;
+    color: darkblue;
+    margin: 10px 50px; /* 10px top/bottom, 50px left/right */
+    font-family: 'Open Sans', sans-serif; /* Default font for non-headings */
+}
+
+/* Use Oswald font for all headings */
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Style for images to make them inline with the text */
+img {
+    width: 100px;
+    vertical-align: middle; /* Align images with the text */
+}
+
+/* Optional: Adjust margins for sections if needed */
+section {
+    margin-bottom: 30px;
+}
